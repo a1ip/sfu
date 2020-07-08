@@ -33,6 +33,6 @@
 
 <style type="text/css">
 .container-lg {
-  max-width:none !important;
+  max-width:1500px !important;
 }
 </style>
